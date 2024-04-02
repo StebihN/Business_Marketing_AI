@@ -1,0 +1,48 @@
+{
+  "name": "bussines_marketing_ai",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "./",
+  "bugs": {
+    "url": "https://github.com/nikkovacevic/spletne-tehnologije/issues"
+  },
+  "license": "ISC",
+  "author": "Nik Štebih <nik.stebih@student.um.si>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkovacevic/spletne-tehnologije.git"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.1",
+    "@mui/system": "^5.13.1",
+    "axios": "^1.4.0",
+    "electron": "^24.1.2",
+    "jwt-decode": "^3.1.2",
+    "react": "^18.2.0",
+    "react-auth-kit": "^2.12.2",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "electron": "electron ."
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
