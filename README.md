@@ -1,6 +1,6 @@
 <p align="center">
     <img src="frontend\public\logo192.png" alt="Logo" >
- <h1 align="center"> Bussiness Marketing AI</h1>
+ <h1 align="center"> Business Marketing AI</h1>
 </p>
 
 <p align="center">
